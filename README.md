@@ -4,8 +4,8 @@ hello.R.names
 Concatenate text files which is provided by US Social Security Administration.
 
 
-About Original Data
--------------------
+Original Data
+-------------
 
 I downdloaded a zip file from the US Social Security Administration.
 I saved the zip file as `original_data/names.zip`.
@@ -15,6 +15,7 @@ I saved the zip file as `original_data/names.zip`.
 I heard about the data, on this site.
 
 - https://cloud.google.com/bigquery/web-ui-quickstart
+
     > BigQuery Web UI Quickstart -> Load data into a table ->
     Download custom data ->  Download this zip file (approximately 7 MB).
     The file contains data about popular baby names and is provided by
