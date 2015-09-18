@@ -1,7 +1,7 @@
 hello.R.names
 =============
 
-Concatenate text files which is provided by US Social Security Administration.
+Concatenate text files which are provided by US Social Security Administration.
 
 
 Original Data
